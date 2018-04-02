@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b4b3938-9c1d-44a1-b0e0-0a45ab885a92" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ElvesManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BusinessManager/Implementation/ElvesManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="44" column="37" lean-forward="false" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
+              <folding>
+                <marker date="1506913420031" expanded="false" signature="6:184" ph="..." />
+                <marker date="1506913420031" expanded="true" signature="225:1978" ph="{...}" />
+                <marker date="1506913420031" expanded="true" signature="273:1975" ph="{...}" />
+                <marker date="1506913420031" expanded="true" signature="398:461" ph="{...}" />
+                <marker date="1506913420031" expanded="true" signature="503:767" ph="{...}" />
+                <marker date="1506913420031" expanded="true" signature="563:707" ph="{...}" />
+                <marker date="1506913420031" expanded="true" signature="807:1248" ph="{...}" />
+                <marker date="1506913420031" expanded="true" signature="867:1011" ph="{...}" />
+                <marker date="1506913420031" expanded="true" signature="1048:1190" ph="{...}" />
+                <marker date="1506913420031" expanded="true" signature="1288:1527" ph="{...}" />
+                <marker date="1506913420031" expanded="true" signature="1332:1468" ph="{...}" />
+                <marker date="1506913420031" expanded="true" signature="1565:1635" ph="{...}" />
+                <marker date="1506913420031" expanded="true" signature="1692:1968" ph="{...}" />
+                <marker date="1506913420031" expanded="true" signature="1750:1897" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.routing.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Santa/app/app.routing.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="45" lean-forward="false" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="elves.compoment.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Santa/app/Components/Elves/elves.compoment.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="68" column="5" lean-forward="false" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#71#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="elves.compoment.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Santa/app/Components/Elves/elves.compoment.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="59" column="61" lean-forward="false" selection-start-line="59" selection-start-column="52" selection-end-line="59" selection-end-column="61" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="e#2555#2562#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Santa/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Santa/app/Components/Home/home.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="40" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Santa/app/app.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Santa/app/Components/Home/home.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>elves-appe</find>
+      <find>RegisterComponents</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Santa/App_Start/RouteConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Santa/App_Start/UnityConfig.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Santa/Web.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Santa/Models/ElfVM.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BusinessEngines/Interfaces/IElvesEngine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Santa/Controllers/ManageElvesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Santa/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Santa/App_Start/FilterConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Santa/App_Start/BundleConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Santa/Global.asax.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Santa.Common/Enums/IntelligenceEnum.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Santa/package.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Santa.Common/BusinessObjects/ElfBO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BusinessEngines/Implementation/ElvesEngine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Santa.Common/ExceptionFactory/ValidationResultsException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BusinessManager/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Santa.Common/ExceptionFactory/ValidationExceptionFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RavenAccessor/RavenBo/Elves.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RavenAccessor/RavenHelper/SearchAll.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RavenAccessor/Interfaces/IRavanStore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BusinessEngines/Mapper/AutoMapperConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Santa.Common/Resources/ServerMessages.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BusinessManager/Implementation/ElvesManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BusinessManager/Interfaces/IElvesManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RavenAccessor/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RavenAccessor/Implementation/RavanStore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Santa/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Santa/Mappers/AutoMapperConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Santa/Mappers/Mappers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Santa/App_Start/WebApiConfig.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Santa/app/app.routing.js" />
+        <option value="$PROJECT_DIR$/Santa/app/main.ts" />
+        <option value="$PROJECT_DIR$/Santa/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Santa/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/Santa/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/Santa/app/app.routing.ts" />
+        <option value="$PROJECT_DIR$/BusinessManager/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/BusinessManager/Class1.cs" />
+        <option value="$PROJECT_DIR$/BusinessEngines/Class1.cs" />
+        <option value="$PROJECT_DIR$/RavenAccessor/Class1.cs" />
+        <option value="$PROJECT_DIR$/RavenAccessor/Interfaces/IRavanStore.cs" />
+        <option value="$PROJECT_DIR$/RavenAccessor/app.config" />
+        <option value="$PROJECT_DIR$/Santa.Common/Class1.cs" />
+        <option value="$PROJECT_DIR$/Santa.Common/Enums/IntelligenceEnum.cs" />
+        <option value="$PROJECT_DIR$/BusinessEngines/Interfaces/ElvesEngine.cs" />
+        <option value="$PROJECT_DIR$/Santa/Mappers/Mappers.cs" />
+        <option value="$PROJECT_DIR$/Santa/Global.asax.cs" />
+        <option value="$PROJECT_DIR$/Santa/App_Start/UnityConfig.cs" />
+        <option value="$PROJECT_DIR$/Santa.Common/ExceptionFactory/ValidationResultsException.cs" />
+        <option value="$PROJECT_DIR$/Santa.Common/ExceptionFactory/ValidationExceptionFactory.cs" />
+        <option value="$PROJECT_DIR$/Santa/Mappers/AutoMapperConfiguration.cs" />
+        <option value="$PROJECT_DIR$/Santa/Web.config" />
+        <option value="$PROJECT_DIR$/Santa.Common/BusinessObjects/ElfBO.cs" />
+        <option value="$PROJECT_DIR$/Santa/Models/ElfVM.cs" />
+        <option value="$PROJECT_DIR$/RavenAccessor/RavenBo/Elves.cs" />
+        <option value="$PROJECT_DIR$/Santa/app/Shared/IFormatter.ts" />
+        <option value="$PROJECT_DIR$/Santa/app/Models/IElf.ts" />
+        <option value="$PROJECT_DIR$/Santa/app/Shared/Formatter.ts" />
+        <option value="$PROJECT_DIR$/Santa/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/Santa/app/Shared/global.ts" />
+        <option value="$PROJECT_DIR$/Santa/app/Components/Elves/elves.compoment.html" />
+        <option value="$PROJECT_DIR$/Santa.Common/Resources/ServerMessages.resx" />
+        <option value="$PROJECT_DIR$/BusinessEngines/Interfaces/IElvesEngine.cs" />
+        <option value="$PROJECT_DIR$/BusinessManager/Interfaces/IElvesManager.cs" />
+        <option value="$PROJECT_DIR$/BusinessManager/Implementation/ElvesManager.cs" />
+        <option value="$PROJECT_DIR$/Santa.Common/RavenSearchHelper/SearchAll.cs" />
+        <option value="$PROJECT_DIR$/Santa/app/Shared/UrlProvider.ts" />
+        <option value="$PROJECT_DIR$/Santa/app/Service/elves.service.ts" />
+        <option value="$PROJECT_DIR$/Santa/app/Components/Elves/elves.compoment.ts" />
+        <option value="$PROJECT_DIR$/RavenAccessor/Implementation/RavanStore.cs" />
+        <option value="$PROJECT_DIR$/BusinessEngines/Mapper/AutoMapperConfiguration.cs" />
+        <option value="$PROJECT_DIR$/RavenAccessor/RavenHelper/SearchAll.cs" />
+        <option value="$PROJECT_DIR$/BusinessEngines/Implementation/ElvesEngine.cs" />
+        <option value="$PROJECT_DIR$/Santa/Controllers/ManageElvesController.cs" />
+        <option value="$PROJECT_DIR$/Santa/Content/home.cs" />
+        <option value="$PROJECT_DIR$/Santa/Content/homes.css" />
+        <option value="$PROJECT_DIR$/Santa/app/app.component.html" />
+        <option value="$PROJECT_DIR$/Santa/app/Components/Home/home.component.html" />
+        <option value="$PROJECT_DIR$/Santa/Content/Site.css" />
+        <option value="$PROJECT_DIR$/Santa/app/Components/Home/home.component.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/Santa/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Santa (5 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Santa" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Santa (5 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Santa" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Santa (5 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Santa" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Components" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Home" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Santa (5 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Santa" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Components" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Elves" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Santa (5 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Santa (5 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BusinessEngines" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ToolWindowDocumentation.ShowToolbar" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Santa/Santa.csproj" />
+      <option name="PROJECT_KIND" value="Web" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+      <option name="EXE_PATH" value="C:/Program Files/IIS Express/iisexpress.exe" />
+      <option name="PROGRAM_PARAMETERS" value="/config:$PROJECT_DIR$/.idea/config/applicationhost.config /site:Santa /apppool:Clr4IntegratedAppPool" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b4b3938-9c1d-44a1-b0e0-0a45ab885a92" name="Default" comment="" />
+      <created>1506783927519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506783927519</updated>
+      <workItem from="1506783931628" duration="1534000" />
+      <workItem from="1506786616915" duration="106000" />
+      <workItem from="1506786743881" duration="61745000" />
+      <workItem from="1506937135380" duration="388000" />
+      <workItem from="1507191813173" duration="3425000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="67198000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39958158" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="92" y="92" width="1736" height="866" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Santa/app/app.component.js.map" />
+        <option value="$PROJECT_DIR$/Santa/app/app.component.js" />
+        <option value="$PROJECT_DIR$/Santa/app/app.module.js.map" />
+        <option value="$PROJECT_DIR$/Santa/app/app.module.js" />
+        <option value="$PROJECT_DIR$/Santa/app/Shared/Operation.js.map" />
+        <option value="$PROJECT_DIR$/Santa/app/Shared/Operation.js" />
+        <option value="$PROJECT_DIR$/Santa/app/app.routing.js" />
+        <option value="$PROJECT_DIR$/Santa/app/app.routing.js.map" />
+        <option value="$PROJECT_DIR$/Santa/app/Shared/UrlProvider.js" />
+        <option value="$PROJECT_DIR$/Santa/app/Shared/UrlProvider.js.map" />
+        <option value="$PROJECT_DIR$/Santa/app/main.js.map" />
+        <option value="$PROJECT_DIR$/Santa/app/main.js" />
+        <option value="$PROJECT_DIR$/Santa/app/Models/IElf.js.map" />
+        <option value="$PROJECT_DIR$/Santa/app/Models/IElf.js" />
+        <option value="$PROJECT_DIR$/Santa/app/Shared/IntelligenceEnum.js.map" />
+        <option value="$PROJECT_DIR$/Santa/app/Shared/global.js.map" />
+        <option value="$PROJECT_DIR$/Santa/app/Shared/IntelligenceEnum.js" />
+        <option value="$PROJECT_DIR$/Santa/app/Shared/global.js" />
+        <option value="$PROJECT_DIR$/Santa/app/Service/elves.service.js" />
+        <option value="$PROJECT_DIR$/Santa/app/Service/elves.service.js.map" />
+        <option value="$PROJECT_DIR$/Santa/app/Components/Home/home.component.js" />
+        <option value="$PROJECT_DIR$/Santa/app/Components/Home/home.component.js.map" />
+        <option value="$PROJECT_DIR$/Santa/app/Components/Elves/elves.compoment.js" />
+        <option value="$PROJECT_DIR$/Santa/app/Components/Elves/elves.compoment.js.map" />
+        <option value="$PROJECT_DIR$/Santa/app/Shared/IFormatter.js" />
+        <option value="$PROJECT_DIR$/Santa/app/Shared/IFormatter.js.map" />
+        <option value="$PROJECT_DIR$/Santa/app/Shared/Formatter.js.map" />
+        <option value="$PROJECT_DIR$/Santa/app/Shared/Formatter.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Santa/Global.asax.cs</url>
+          <line>16</line>
+          <properties startOffset="359" endOffset="398" documentPath="$PROJECT_DIR$/Santa/Global.asax.cs" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Santa/App_Start/UnityConfig.cs</url>
+          <line>23</line>
+          <properties startOffset="672" endOffset="732" documentPath="$PROJECT_DIR$/Santa/App_Start/UnityConfig.cs" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/RavenAccessor/RavenHelper/SearchAll.cs</url>
+          <line>41</line>
+          <properties startOffset="1228" endOffset="1492" documentPath="$PROJECT_DIR$/RavenAccessor/RavenHelper/SearchAll.cs" />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BusinessEngines/Implementation/ElvesEngine.cs</url>
+          <line>28</line>
+          <properties startOffset="762" endOffset="1026" documentPath="$PROJECT_DIR$/BusinessEngines/Implementation/ElvesEngine.cs" />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="17" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Santa/App_Start/WebApiConfig.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa.Common/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/Santa.Common/Enums/IntelligenceEnum.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/App_Start/UnityMvcActivator.cs" />
+    <entry file="file://$PROJECT_DIR$/Santa/app/Shared/IntelligenceEnum.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BusinessManager/packages.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/Web.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="53" lean-forward="false" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa.Common/BusinessObjects/ElfBO.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa.Common/Resources/ServerMessages.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/app/Shared/IFormatter.ts" />
+    <entry file="file://$PROJECT_DIR$/Santa/app/Shared/Formatter.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/app/Models/IElf.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="42" lean-forward="true" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/node_modules/@types/node/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="1842" column="36" lean-forward="true" selection-start-line="1842" selection-start-column="36" selection-end-line="1842" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/app/Shared/global.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="62" lean-forward="false" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/images/loader.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa.Common/Resources/ServerMessages.resx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="78" column="29" lean-forward="true" selection-start-line="78" selection-start-column="29" selection-end-line="78" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BusinessEngines/Interfaces/IElvesEngine.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa.Common/RavenSearchHelper/SearchAll.cs" />
+    <entry file="file://$PROJECT_DIR$/Santa/app/Shared/UrlProvider.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RavenAccessor/RavenBo/Elves.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="45" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="12" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RavenAccessor/Implementation/RavanStore.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RavenAccessor/RavenHelper/SearchAll.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="52" column="5" lean-forward="false" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+          <folding>
+            <marker date="1506920347862" expanded="false" signature="6:150" ph="..." />
+            <marker date="1506920347862" expanded="true" signature="218:528" ph="{...}" />
+            <marker date="1506920347862" expanded="true" signature="601:978" ph="{...}" />
+            <marker date="1506920347862" expanded="true" signature="639:972" ph="{...}" />
+            <marker date="1506920347862" expanded="true" signature="738:901" ph="{...}" />
+            <marker date="1506920347862" expanded="true" signature="1083:1508" ph="{...}" />
+            <marker date="1506920347862" expanded="true" signature="1121:1174" ph="{...}" />
+            <marker date="1506920347862" expanded="true" signature="1205:1502" ph="{...}" />
+            <marker date="1506920347862" expanded="true" signature="1320:1491" ph="{...}" />
+            <marker date="1506920347862" expanded="true" signature="1383:1473" ph="{...}" />
+            <marker date="1506920347862" expanded="true" signature="1579:1812" ph="{...}" />
+            <marker date="1506920347862" expanded="true" signature="1616:1806" ph="{...}" />
+            <marker date="1506920347862" expanded="true" signature="1716:1795" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/app/Service/elves.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="33" column="51" lean-forward="false" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/images/header.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/Content/home.cs" />
+    <entry file="file://$PROJECT_DIR$/Santa/Content/Site.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/App_Start/BundleConfig.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/Content/homes.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/Controllers/ManageElvesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="55" column="1" lean-forward="false" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+          <folding>
+            <marker date="1506922308113" expanded="false" signature="6:238" ph="..." />
+            <marker date="1506922308113" expanded="true" signature="267:1783" ph="{...}" />
+            <marker date="1506922308113" expanded="true" signature="325:1781" ph="{...}" />
+            <marker date="1506922308113" expanded="true" signature="450:512" ph="{...}" />
+            <marker date="1506922308113" expanded="true" signature="639:715" ph="{...}" />
+            <marker date="1506922308113" expanded="true" signature="851:1017" ph="{...}" />
+            <marker date="1506922308113" expanded="true" signature="1149:1280" ph="{...}" />
+            <marker date="1506922308113" expanded="true" signature="1423:1499" ph="{...}" />
+            <marker date="1506922308113" expanded="true" signature="1678:1766" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/node_modules/@angular/router/src/router_module.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="91" column="11" lean-forward="false" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/app/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa.Common/ExceptionFactory/ValidationResultsException.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <marker date="1506894406357" expanded="false" signature="6:69" ph="..." />
+            <marker date="1506894406357" expanded="true" signature="110:1896" ph="{...}" />
+            <marker date="1506894406357" expanded="true" signature="194:971" ph="{...}" />
+            <marker date="1506894406357" expanded="true" signature="498:594" ph="{...}" />
+            <marker date="1506894406357" expanded="true" signature="767:965" ph="{...}" />
+            <marker date="1506894406357" expanded="true" signature="1049:1808" ph="{...}" />
+            <marker date="1506894406357" expanded="true" signature="1344:1440" ph="{...}" />
+            <marker date="1506894406357" expanded="true" signature="1604:1802" ph="{...}" />
+            <marker date="1506894406357" expanded="true" signature="1839:1894" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa.Common/ExceptionFactory/ValidationExceptionFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+          <folding>
+            <marker date="1506894477846" expanded="true" signature="96:957" ph="{...}" />
+            <marker date="1506894477846" expanded="true" signature="149:955" ph="{...}" />
+            <marker date="1506894477846" expanded="true" signature="237:316" ph="{...}" />
+            <marker date="1506894477846" expanded="true" signature="420:520" ph="{...}" />
+            <marker date="1506894477846" expanded="true" signature="623:714" ph="{...}" />
+            <marker date="1506894477846" expanded="true" signature="825:949" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/Mappers/Mappers.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="6" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <marker date="1506846949446" expanded="false" signature="6:73" ph="..." />
+            <marker date="1506846949446" expanded="true" signature="98:395" ph="{...}" />
+            <marker date="1506846949446" expanded="true" signature="158:392" ph="{...}" />
+            <marker date="1506846949446" expanded="true" signature="211:385" ph="{...}" />
+            <marker date="1506846949446" expanded="true" signature="256:374" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/Models/ElfVM.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding>
+            <marker date="1506900773778" expanded="false" signature="6:39" ph="..." />
+            <marker date="1506900773778" expanded="true" signature="63:368" ph="{...}" />
+            <marker date="1506900773778" expanded="true" signature="88:366" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/Global.asax.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="19" column="41" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="41" />
+          <folding>
+            <marker date="1506857931256" expanded="false" signature="6:207" ph="..." />
+            <marker date="1506857931256" expanded="true" signature="224:773" ph="{...}" />
+            <marker date="1506857931256" expanded="true" signature="287:771" ph="{...}" />
+            <marker date="1506857931256" expanded="true" signature="336:765" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/App_Start/UnityConfig.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="21" column="27" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding>
+            <marker date="1506860006872" expanded="false" signature="6:489" ph="..." />
+            <marker date="1506860006872" expanded="true" signature="539:1849" ph="{...}" />
+            <marker date="1506860006872" expanded="true" signature="649:1334" ph="{...}" />
+            <marker date="1506860006872" expanded="true" signature="1496:1843" ph="{...}" />
+            <marker date="1506860006872" expanded="true" signature="1924:2728" ph="{...}" />
+            <marker date="1506860006872" expanded="true" signature="2096:2152" ph="{...}" />
+            <marker date="1506860006872" expanded="true" signature="2204:2438" ph="{...}" />
+            <marker date="1506860006872" expanded="true" signature="2230:2311" ph="{...}" />
+            <marker date="1506860006872" expanded="true" signature="2351:2428" ph="{...}" />
+            <marker date="1506860006872" expanded="true" signature="2503:2722" ph="{...}" />
+            <marker date="1506860006872" expanded="true" signature="2529:2611" ph="{...}" />
+            <marker date="1506860006872" expanded="true" signature="2651:2712" ph="{...}" />
+            <marker date="1506860006872" expanded="true" signature="2824:3524" ph="{...}" />
+            <marker date="1506860006872" expanded="true" signature="2946:2966" ph="{...}" />
+            <marker date="1506860006872" expanded="true" signature="3017:3234" ph="{...}" />
+            <marker date="1506860006872" expanded="true" signature="3042:3123" ph="{...}" />
+            <marker date="1506860006872" expanded="true" signature="3163:3224" ph="{...}" />
+            <marker date="1506860006872" expanded="true" signature="3299:3518" ph="{...}" />
+            <marker date="1506860006872" expanded="true" signature="3325:3407" ph="{...}" />
+            <marker date="1506860006872" expanded="true" signature="3447:3508" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/Mappers/AutoMapperConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <marker date="1506897518275" expanded="false" signature="6:73" ph="..." />
+            <marker date="1506897518275" expanded="true" signature="98:869" ph="{...}" />
+            <marker date="1506897518275" expanded="true" signature="156:867" ph="{...}" />
+            <marker date="1506897518275" expanded="true" signature="252:454" ph="{...}" />
+            <marker date="1506897518275" expanded="true" signature="308:443" ph="{...}" />
+            <marker date="1506897518275" expanded="true" signature="493:861" ph="{...}" />
+            <marker date="1506897518275" expanded="true" signature="535:587" ph="{...}" />
+            <marker date="1506897518275" expanded="true" signature="624:813" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BusinessEngines/Mapper/AutoMapperConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <marker date="1506917629814" expanded="false" signature="6:115" ph="..." />
+            <marker date="1506917629814" expanded="true" signature="149:482" ph="{...}" />
+            <marker date="1506917629814" expanded="true" signature="207:480" ph="{...}" />
+            <marker date="1506917629814" expanded="true" signature="258:474" ph="{...}" />
+            <marker date="1506917629814" expanded="true" signature="301:464" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BusinessEngines/Implementation/ElvesEngine.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <marker date="1506921835540" expanded="false" signature="6:447" ph="..." />
+            <marker date="1506921835540" expanded="true" signature="489:3525" ph="{...}" />
+            <marker date="1506921835540" expanded="true" signature="533:3512" ph="{...}" />
+            <marker date="1506921835540" expanded="true" signature="640:698" ph="{...}" />
+            <marker date="1506921835540" expanded="true" signature="739:1036" ph="{...}" />
+            <marker date="1506921835540" expanded="true" signature="823:1026" ph="{...}" />
+            <marker date="1506921835540" expanded="true" signature="1075:1368" ph="{...}" />
+            <marker date="1506921835540" expanded="true" signature="1228:1358" ph="{...}" />
+            <marker date="1506921835540" expanded="true" signature="1407:1791" ph="{...}" />
+            <marker date="1506921835540" expanded="true" signature="1491:1781" ph="{...}" />
+            <marker date="1506921835540" expanded="true" signature="1585:1737" ph="{...}" />
+            <marker date="1506921835540" expanded="true" signature="1828:2133" ph="{...}" />
+            <marker date="1506921835540" expanded="true" signature="1912:2123" ph="{...}" />
+            <marker date="1506921835540" expanded="true" signature="2189:3506" ph="{...}" />
+            <marker date="1506921835540" expanded="true" signature="2225:2652" ph="/* I tried to Do multiple term search creatring AbstractIndexCreationTask in  RavenAccessor.RavenHelper ... */" />
+            <marker date="1506921835540" expanded="true" signature="2739:3496" ph="{...}" />
+            <marker date="1506921835540" expanded="true" signature="2773:3349" ph="{...}" />
+            <marker date="1506921835540" expanded="true" signature="3393:3465" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BusinessManager/Interfaces/IElvesManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <marker date="1506913420048" expanded="false" signature="6:49" ph="..." />
+            <marker date="1506913420048" expanded="true" signature="87:321" ph="{...}" />
+            <marker date="1506913420048" expanded="true" signature="124:319" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BusinessManager/Implementation/ElvesManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="44" column="37" lean-forward="false" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
+          <folding>
+            <marker date="1506913420031" expanded="false" signature="6:184" ph="..." />
+            <marker date="1506913420031" expanded="true" signature="225:1978" ph="{...}" />
+            <marker date="1506913420031" expanded="true" signature="273:1975" ph="{...}" />
+            <marker date="1506913420031" expanded="true" signature="398:461" ph="{...}" />
+            <marker date="1506913420031" expanded="true" signature="503:767" ph="{...}" />
+            <marker date="1506913420031" expanded="true" signature="563:707" ph="{...}" />
+            <marker date="1506913420031" expanded="true" signature="807:1248" ph="{...}" />
+            <marker date="1506913420031" expanded="true" signature="867:1011" ph="{...}" />
+            <marker date="1506913420031" expanded="true" signature="1048:1190" ph="{...}" />
+            <marker date="1506913420031" expanded="true" signature="1288:1527" ph="{...}" />
+            <marker date="1506913420031" expanded="true" signature="1332:1468" ph="{...}" />
+            <marker date="1506913420031" expanded="true" signature="1565:1635" ph="{...}" />
+            <marker date="1506913420031" expanded="true" signature="1692:1968" ph="{...}" />
+            <marker date="1506913420031" expanded="true" signature="1750:1897" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/app/app.routing.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="45" lean-forward="false" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/app/Components/Home/home.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="40" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/app/Components/Home/home.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/app/Components/Elves/elves.compoment.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="68" column="5" lean-forward="false" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/app/Components/Elves/elves.compoment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="59" column="61" lean-forward="false" selection-start-line="59" selection-start-column="52" selection-end-line="59" selection-end-column="61" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#2555#2562#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santa/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

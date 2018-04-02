@@ -1,0 +1,13 @@
+C:\ExciteTest\Santa\Santa.Common\bin\Debug\Santa.Common.dll
+C:\ExciteTest\Santa\Santa.Common\bin\Debug\Santa.Common.pdb
+C:\ExciteTest\Santa\Santa.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\ExciteTest\Santa\Santa.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\ExciteTest\Santa\Santa.Common\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\ExciteTest\Santa\Santa.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\ExciteTest\Santa\Santa.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\ExciteTest\Santa\Santa.Common\obj\Debug\Santa.Common.csprojResolveAssemblyReference.cache
+C:\ExciteTest\Santa\Santa.Common\obj\Debug\Santa.Common.Resources.ServerMessages.resources
+C:\ExciteTest\Santa\Santa.Common\obj\Debug\Santa.Common.csproj.GenerateResource.Cache
+C:\ExciteTest\Santa\Santa.Common\obj\Debug\Santa.Common.csproj.CoreCompileInputs.cache
+C:\ExciteTest\Santa\Santa.Common\obj\Debug\Santa.Common.dll
+C:\ExciteTest\Santa\Santa.Common\obj\Debug\Santa.Common.pdb

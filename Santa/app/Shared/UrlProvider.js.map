@@ -1,0 +1,1 @@
+{"version":3,"file":"UrlProvider.js","sourceRoot":"","sources":["UrlProvider.ts"],"names":[],"mappings":";AACA;IAAA;IAQA,CAAC;IAPU,mBAAS,GAAC;QACb,mBAAmB,EAAE,oBAAoB;QACzC,gBAAgB,EAAE,oBAAoB;QACtC,iBAAiB,EAAE,oBAAoB;QACvC,iBAAiB,EAAE,qBAAqB;QACxC,uBAAuB,EAAE,4BAA4B;KACxD,CAAA;IACL,gBAAC;AAAD,CAAC,AARD,IAQC;AARY,iBAAS,YAQrB,CAAA"}
